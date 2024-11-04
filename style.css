@@ -1,0 +1,16 @@
+h1{
+    font-family: cursive;
+    font-weight: bolder;
+    align-items: center;
+    text-align: center;
+    font-size: 3vw;
+}
+
+#b1,#b2,#b3{
+    font-size: 30px;
+    font-family: cursive;
+}
+
+#b1{
+    background-image: url("p2.png");
+}
